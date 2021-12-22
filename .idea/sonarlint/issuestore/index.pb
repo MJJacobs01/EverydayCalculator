@@ -207,3 +207,9 @@ t
 Dapp/src/main/java/com/jacobs/mj/everydaycalculator/ui/theme/Color.kt,5/c/5cd533b8e6f7c728379be1ea6114c7d96fcd647b
 P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+h
+8.idea/libraries/Gradle__net_objecthunter_exp4j_0_4_8.xml,d/5/d5ccb462743d0297705d4478d542fd6283b163a2
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+]
+-.idea/modules/app/Everyday_Calculator.app.iml,0/1/014cb809315cc7e39fa75be767f5f50ec3ff74df
